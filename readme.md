@@ -1,0 +1,2 @@
+Desenvolvimento e controle de versão do software de uma calculadora para trabalho N1 do 3 semestre da disciplina de controle de verão de sofware.
+Para maior aprendedizado do controle da versão, a cada função será implementada um versão.
