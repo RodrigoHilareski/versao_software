@@ -12,7 +12,7 @@ def calculadora():
     print("1 - Adição")
     print("2 - Subtração")
     print("3 - Multiplicação")
-    print("4 - Divisão")
+    print("5 - Divisão") #o erro está aqui, o correto seria 4
     
     escolha = input("Digite o número da operação desejada: ")
     
