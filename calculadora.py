@@ -1,1 +1,2 @@
-Primeira linha sem código só para salvar
+def soma (a,b):
+    return a + b
